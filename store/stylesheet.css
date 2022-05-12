@@ -1,0 +1,35 @@
+body{
+	margin: 0px;
+	padding: 0px;
+}
+
+#header {
+	height: 150px;
+	width: 100%;
+	background-color: red;
+}
+
+#loginlink {
+	text-align: right;
+	color: pink;
+}
+
+#side {
+	height: 900px;
+	width: 20%;
+	float: left;
+	background-color: green;
+}
+
+#main {
+	background-color: pink;
+}
+
+form {
+	text-align: right;
+}
+
+ol {
+	list-style-type: none;
+}
+
